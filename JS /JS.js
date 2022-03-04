@@ -1,3 +1,11 @@
+/* Controle
+
+Subir = Arrow UP.
+Descer = Arrow Down.
+Direita = Arrow Right.
+Esquerda = Arrow Left.
+
+*/
 //Principais váriaveis
 
 let canvas = document.getElementById("snake"); //criar elemento que irá rodar o jogo
